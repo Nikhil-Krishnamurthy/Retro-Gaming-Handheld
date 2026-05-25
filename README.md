@@ -2,13 +2,13 @@
 This project was creating a gaming handheld from scratch, including cadding the case and designing the pcb. This handheld will run retro games up to the SNES.
 
 Key Features
-Esp32 powered emulation
-RGB444 7in screen
-Dedicated sound system
-Cold swappable storage system
-Rechargable 3500mAh battery
-USB C data transfer to computer
-USB C powered charging
+Esp32 powered emulation \n
+RGB444 7in screen \n
+Dedicated sound system \n
+Cold swappable storage system \n
+Rechargable 3500mAh battery \n
+USB C data transfer to computer \n
+USB C powered charging \n
 
 Schematic
 
