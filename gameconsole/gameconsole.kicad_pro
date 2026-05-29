@@ -130,7 +130,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.0,
+        "min_clearance": 0.102,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.5,
         "min_groove_width": 0.0,
@@ -796,7 +796,7 @@
   "sheets": [
     [
       "438974da-fcf5-4f68-a53d-89d4fa90d098",
-      "GameConsoleTransportv2"
+      "gameconsole"
     ]
   ],
   "text_variables": {},
